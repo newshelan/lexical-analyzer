@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "词法分析器", "词法分析器\词法分析器.csproj", "{F0AB3F4F-7B53-47F5-82FF-701356A274D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0AB3F4F-7B53-47F5-82FF-701356A274D3}.Debug|x86.ActiveCfg = Debug|x86
+		{F0AB3F4F-7B53-47F5-82FF-701356A274D3}.Debug|x86.Build.0 = Debug|x86
+		{F0AB3F4F-7B53-47F5-82FF-701356A274D3}.Release|x86.ActiveCfg = Release|x86
+		{F0AB3F4F-7B53-47F5-82FF-701356A274D3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
